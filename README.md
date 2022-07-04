@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Api rest criada usando o django rest framework para treinar e aprimorar o conhecimento sobre as apis rest
+Api rest criada usando django rest framework para treinar e aprimorar o conhecimento sobre as apis rest
 
 ## Status
 
